@@ -1,0 +1,2 @@
+if(SortedOrNot(a)): 
+        #     break
