@@ -11,5 +11,7 @@ def CheckPrimeNumber(a):
     return True
 
 numInp = int(input("Enter a number: ")) #input
+
 if(CheckPrimeNumber(numInp)): print("{0} is a prime number".format(numInp))
+
 else: print("{0} is not a prime number".format(numInp)) #output
