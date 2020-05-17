@@ -1,0 +1,1 @@
+InitArr = DeleteRepeatedElements(InitArr)
