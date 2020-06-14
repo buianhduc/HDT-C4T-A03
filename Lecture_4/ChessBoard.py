@@ -15,7 +15,6 @@ def solveKT():
         [-1, -1, -1, -1, -1, -1],
         [-1, -1, -1, -1, -1, -1],
         [-1, -1, -1, -1, -1, -1],
-        [-1, -1, -1, -1, -1, -1],
     ]
 
     # move_x and move_y define next move of Knight.  
